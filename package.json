@@ -20,7 +20,11 @@
     "@mui/lab": "5.0.0-alpha.170",
     "@mui/material": "^5.15.19",
     "@mui/material-nextjs": "^5.15.11",
+<<<<<<< HEAD
     "apexcharts": "^5.3.0",
+=======
+    "apexcharts": "^5.3.5",
+>>>>>>> 825f677fc8a6e2666562fddcba867109ee6f73f0
     "classnames": "^2.5.1",
     "next": "^14.2.3",
     "react": "^18.3.1",
